@@ -2,7 +2,7 @@
 
 Quickly create a php http proxy server
 
-*Attentions: only for fun, not use this exampl in combat conditions*
+*Attentions: only for fun, not use this example in combat conditions*
 
 Time execute:
 ![time execution](http://stage.mainsource.ru/time.png)
